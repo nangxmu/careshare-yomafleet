@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f93cb16-510a-44b8-85a9-77e2ed596622" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/extentreport/ExtentReporterNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/pages/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/testcases/CarFindingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/carshare/yomafleet/testcases/SignUpTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2xATn6kdm6HRdH5eFvaCRgLKaeM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG./Users/mac/yomafleet/target/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.TestCarFinding.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyCarFinding.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyCarSearchFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyEmptyFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyNavigateToLocationDirectory.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyNavigationToLocationDirectory.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyRequiredFieldValidations.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CarFindingTest.verifyReturnToDifferentLocation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MainPageTest.navigationToAllTools.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.TestIndividualAccountRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.TestInvalidIndividualAccountRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testCorporateExistingAccountHeading.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testCorporateNewAccountHeading.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testCorporateSignupPageHeading.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testEmptyFieldValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testExistingCorporateAccountEmptyFieldValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testExistingCorporateAccountInvalidEmail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testExistingCorporateAccountInvalidPhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testIndividualAccountEmptyFieldValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testIndividualAccountInvalidEmailFormats.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testIndividualAccountInvalidPasswordError.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testIndividualAccountPasswordMismatchError.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testIndividualSignupPageHeading.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testInvalidEmailFormats.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testInvalidPasswordError.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testNewCorporateAccountEmptyFieldValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testNewCorporateAccountInvalidEmail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testNewCorporateAccountInvalidPhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testPasswordMismatchError.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testSignupPageHeading.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testSuccessfulExistingCorporateAccountRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testSuccessfulIndividualAccountRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testSuccessfulNewCooperateAccountRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpTest.testValidEmailFormats.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.carshare.yomafleet.extentreport" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/mac/yomafleet/target/testng.xml">
+    <configuration name="CarFindingTest.verifyNavigationToLocationDirectory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yomafleet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshare.yomafleet.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carshare.yomafleet.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.carshare.yomafleet.testcases.CarFindingTest" />
+      <option name="METHOD_NAME" value="verifyNavigationToLocationDirectory" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.testExistingCorporateAccountEmptyFieldValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yomafleet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshare.yomafleet.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carshare.yomafleet.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.carshare.yomafleet.testcases.SignUpTest" />
+      <option name="METHOD_NAME" value="testExistingCorporateAccountEmptyFieldValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.testNewCorporateAccountEmptyFieldValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yomafleet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshare.yomafleet.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carshare.yomafleet.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.carshare.yomafleet.testcases.SignUpTest" />
+      <option name="METHOD_NAME" value="testNewCorporateAccountEmptyFieldValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.testSuccessfulExistingCorporateAccountRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yomafleet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.carshare.yomafleet.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.carshare.yomafleet.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.carshare.yomafleet.testcases.SignUpTest" />
+      <option name="METHOD_NAME" value="testSuccessfulExistingCorporateAccountRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mac/yomafleet/target/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/mac/yomafleet/target/testng.xml" />
+        <item itemvalue="TestNG.SignUpTest.testSuccessfulExistingCorporateAccountRegistration" />
+        <item itemvalue="TestNG.SignUpTest.testNewCorporateAccountEmptyFieldValidation" />
+        <item itemvalue="TestNG.CarFindingTest.verifyNavigationToLocationDirectory" />
+        <item itemvalue="TestNG.SignUpTest.testExistingCorporateAccountEmptyFieldValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f93cb16-510a-44b8-85a9-77e2ed596622" name="Changes" comment="" />
+      <created>1747380043867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747380043867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
