@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YOMA FLEET: CARE SHARE TEST AUTOMATION TEST SUITE">
+
+    <listeners>
+        <listener class-name="com.carshare.yomafleet.extentreport.ExtentReporterNG" />
+    </listeners>
+
+    <test name="ACCOUNT REGISTRATION TEST SUITE">
+
+        <classes>
+            <class name="com.carshare.yomafleet.testcases.SignUpTest"/>
+        </classes>
+
+    </test>
+
+</suite>
