@@ -34,6 +34,6 @@ public class TestBase {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.manage().deleteAllCookies();
-        driver.get(prop.getProperty("baseurl"));
+        driver.get("https://carshare.yomafleet.com/");
     }
 }

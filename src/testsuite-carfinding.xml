@@ -6,7 +6,7 @@
         <listener class-name="com.carshare.yomafleet.extentreport.ExtentReporterNG" />
     </listeners>
 
-    <test name="ACCOUNT REGISTRATION TEST SUITE">
+    <test name="CAR FINDING TEST SUITE">
 
         <classes>
             <class name="com.carshare.yomafleet.testcases.CarFindingTest"/>
